@@ -129,7 +129,7 @@ namespace LinqExercise
 
 
             //Add an employee to the end of the list without using employees.Add()
-            string[] employeeList = { "Matt Storey", "Corey McDonald", "Danny Torrence", "Becca Smith" };
+            string[] employeeList = { "Jackson Luther", "Kevin Murphy", "Tyler Gonz", "Joy Franks" };
             //employeeList.Append("Drew Gaylor");
 
             Console.WriteLine(string.Join(", ", employeeList.Append("Drew Gaylor")));
